@@ -40,8 +40,8 @@ o Grouped data by borough, route, and time of day to detect spatial and
 temporal trends.
 
 3. **Trend and Correlation Analysis**:
-o Investigated the relationship between weather conditions, traffic
-volume, and delays.
+   
+o Investigated the relationship between specific days of the week and the frequency of breakdowns or delays
 
 o Identified recurring breakdown issues linked to specific bus routes or
 times.
