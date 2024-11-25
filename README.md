@@ -1,4 +1,4 @@
-# Optimizing-NYC-39-s-Bus-Transportation-System-An-Excel-Analysis
+# Optimizing-NYCs-Bus-Transportation-System-An-Excel-Analysis
 
 ## Table of Contents
 1. [Project Background]()
