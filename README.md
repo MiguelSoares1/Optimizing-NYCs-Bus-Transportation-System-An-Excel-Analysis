@@ -32,21 +32,21 @@ o Standardized columns for easier analysis, such as time formats and
 route identifiers.
 
 
-3. **Descriptive Analysis**:
+2. **Descriptive Analysis**:
 o Calculated summary statistics for delays, breakdown frequencies, and
 average service times.
 
 o Grouped data by borough, route, and time of day to detect spatial and
 temporal trends.
 
-5. **Trend and Correlation Analysis**:
+3. **Trend and Correlation Analysis**:
 o Investigated the relationship between weather conditions, traffic
 volume, and delays.
 
 o Identified recurring breakdown issues linked to specific bus routes or
 times.
 
-7. **Visualization**:
+4. **Visualization**:
 o Developed dashboards with charts and pivot tables to showcase:
 
 o Top 10 routes with most delays.
@@ -61,34 +61,39 @@ o Average delay times by time of day.
 o Certain routes consistently experience delays, particularly during peak
 hours, suggesting congestion or route inefficiencies.
 
-3. **Borough-Wide Analysis**:
+2. **Borough-Wide Analysis**:
+   
 o Manhattan and Brooklyn report the highest delay rates due to high
 traffic density and route overlap.
 
 o Staten Island reports fewer breakdowns but higher average delay times
 due to longer routes.
 
-5. **Time-of-Day Patterns**:
+3. **Time-of-Day Patterns**:
 o Delays peak during rush hours (7-9 AM and 4-6 PM), with a notable
 correlation to increased traffic volume and weather conditions.
 
-6. **Breakdown Causes**:
+4. **Breakdown Causes**:
 o Mechanical failures are the leading cause of breakdowns, followed by
 driver shortages and traffic incidents.
 
 ### Recommendations
 1. **Targeted Route Optimization**:
+   
 o Redesign routes with high delay frequencies to reduce overlaps and
 congestion points.
 
-2. **Preventative Maintenance Programs**:
+3. **Preventative Maintenance Programs**:
+   
 o Introduce regular checks and upgrades for buses prone to mechanical
 failures to minimize breakdowns.
 
-3. **Dynamic Scheduling**:
+4. **Dynamic Scheduling**:
+   
 o Use real-time traffic data to adjust schedules and allocate additional
 buses during peak times to improve service reliability.
 
-4. **Data-Driven Training Programs**:
+5. **Data-Driven Training Programs**:
+   
 o Train drivers to handle high-traffic conditions and implement incident
 response protocols for quick recovery during breakdowns.
