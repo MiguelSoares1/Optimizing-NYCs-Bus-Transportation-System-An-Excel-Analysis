@@ -86,19 +86,12 @@ hours, suggesting congestion or route inefficiencies.
 
 2. **Borough-Wide Analysis**:
    
-o Manhattan and Brooklyn report the highest delay rates due to high
+o Manhattan and Rockland County report the highest delay rates due to high
 traffic density and route overlap.
 
-o Staten Island reports fewer breakdowns but higher average delay times
-due to longer routes.
-
-3. **Time-of-Day Patterns**:
-o Delays peak during rush hours (7-9 AM and 4-6 PM), with a notable
-correlation to increased traffic volume and weather conditions.
-
-4. **Breakdown Causes**:
-o Mechanical failures are the leading cause of breakdowns, followed by
-driver shortages and traffic incidents.
+3. **Breakdown Causes**:
+o Mechanical Problem  are the leading cause of breakdowns, followed by
+won't start and Flat tire.
 
 ### Recommendations
 1. **Targeted Route Optimization**:
@@ -106,17 +99,19 @@ driver shortages and traffic incidents.
 o Redesign routes with high delay frequencies to reduce overlaps and
 congestion points.
 
-3. **Preventative Maintenance Programs**:
+2. **Preventative Maintenance Programs**:
    
 o Introduce regular checks and upgrades for buses prone to mechanical
 failures to minimize breakdowns.
 
-4. **Dynamic Scheduling**:
+o Schedule Maintenance over weekends to help with breakdowns.
+
+3. **Dynamic Scheduling**:
    
 o Use real-time traffic data to adjust schedules and allocate additional
 buses during peak times to improve service reliability.
 
-5. **Data-Driven Training Programs**:
+4. **Data-Driven Training Programs**:
    
 o Train drivers to handle high-traffic conditions and implement incident
 response protocols for quick recovery during breakdowns.
