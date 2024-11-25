@@ -47,13 +47,32 @@ o Identified recurring breakdown issues linked to specific bus routes or
 times.
 
 4. **Visualization**:
-o Developed dashboards with charts and pivot tables to showcase:
+Developed charts and pivot tables to showcase:
 
-o Top 10 routes with most delays.
+o Top 10 boro with most delays.
 
-o Breakdown frequencies by borough.
+![by boro](https://github.com/user-attachments/assets/cbd92671-ab38-4ae7-b190-4aae471d8b26)
 
-o Average delay times by time of day.
+o frequencies for running late and breakdown(weekly).
+
+Pivot tables:
+
+![image](https://github.com/user-attachments/assets/a3f551a6-e5da-4385-910c-618e56eccdf6)
+
+![image](https://github.com/user-attachments/assets/81646c37-cb2f-469b-bf5c-026aacb23ed2)
+
+Charts:
+![image](https://github.com/user-attachments/assets/10bbbc97-a847-40da-9069-8fceed8b64a0)
+
+![image](https://github.com/user-attachments/assets/405577fc-55c1-4184-8038-390bd1c3dfeb)
+
+
+o Common Delay Reasons.
+Pivot Table: 
+![image](https://github.com/user-attachments/assets/27e384a3-3ddc-4bd5-a518-777743e6bdb0)
+
+Chart:
+![image](https://github.com/user-attachments/assets/867de152-92b0-46c1-af2a-739c14c2792f)
 
 ### Key Insights
 1. **Routes with the Most Delays**:
